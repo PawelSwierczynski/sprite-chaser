@@ -6,6 +6,7 @@ namespace SpriteChaser
     {
         public GameObject MainMenuScreen;
         public GameObject SettingsScreen;
+        public GameObject BackButton;
 
         public void Update()
         {
